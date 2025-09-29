@@ -33,7 +33,7 @@ Welcome to my collection of **Python projects**! This repository contains a vari
 - DoomClone.py - A pygame made clone to doom, no enemies, just level creation and movement (press space to shoot, but it doesn't do much)
 - FPSAimTrainer.py - A full fleged FPS aim trainer
 - GuitarHeroClone.py - A pretty cheap knock off of the guitar hero genre, sadly no music
-- Gunslinger.py - **I DO NOT OWN THE ORIGINAL PIXEL ART, I JUST MODIFIED IT TO FIT THE GAME** Just a knock off of the NES game Wild Gunman
+- Gunslinger.py - **I DO NOT OWN THE ORIGINAL PIXEL ART, I JUST MODIFIED IT TO FIT THE GAME** - Just a knock off of the NES game Wild Gunman
 - Hangman.py - A pretty over the top difficult hangman. Feel free to change the word bank around!
 - Magic8Ball.py - Ask it anything
 - StratagemHero.py - Cheap imitation of the Stratagem Hero game in Helldivers 2 (Stratagem codes are correct)
